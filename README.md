@@ -9,3 +9,5 @@ Week 2: Basic Data Processing with Pandas
 		3. Video: The Series Data Structure		10 min
 		
 		4. Video: Querying a Series
+
+	(2) DataFrame
