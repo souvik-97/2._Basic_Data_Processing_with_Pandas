@@ -15,3 +15,5 @@ Week 2: Basic Data Processing with Pandas
 		5. Video: DataFrame Data Structure		12 min
 
 		6. Video: DataFrame Indexing and Loading	8 min
+
+		7. Video: LectureQuerying a DataFrame		9 min
